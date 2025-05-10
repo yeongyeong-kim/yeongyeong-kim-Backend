@@ -21,6 +21,8 @@ AIoT, 머신러닝, 웹 개발 등 다양한 영역에 도전하고 있습니다
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FB7A14?style=flat&logo=java&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-6A4E26?style=flat&logo=java&logoColor=white)
 
 ### 💼 주요 프로젝트
 
