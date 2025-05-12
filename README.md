@@ -26,15 +26,17 @@ AIoT, 머신러닝, 웹 개발 등 다양한 영역에 도전하고 있습니다
 
 ### 💼 주요 프로젝트
 
-#### 🅰 무인 주차 시스템 (AIoT)
-- Python, OpenCV, C# 사용
-- 차량 인식, 출입 시간 측정, 주차 요금 자동 계산
-- 👉 [코드 보기](https://github.com/yeongyeong-kim/Smart-Parking-System.git)(GitHub)
-
-#### 🅱 호텔 예약 사이트 (Java/Spring)
+#### 🅰 호텔 예약 사이트 (Java/Spring)
 - Java, Spring, JSP 기반 웹 앱
 - 이메일 인증(Javamail API), 예약/결제 기능 구현
 - 👉 [코드 보기](https://github.com/yeongyeong-kim/Backrooms_spring.git)(GitHub)
+
+
+#### 🅱 무인 주차 시스템 (AIoT)
+- Python, OpenCV, C# 사용
+- 차량 인식, 출입 시간 측정, 주차 요금 자동 계산
+- 👉 [코드 보기](https://github.com/yeongyeong-kim/Smart-Parking-System.git)(GitHub)
+  
 
 #### 🅲 ERP 재고 관리 프로그램 (C#/WinForm)
 - C#, WinForm 기반 ERP 프로그램 개발
@@ -43,13 +45,11 @@ AIoT, 머신러닝, 웹 개발 등 다양한 영역에 도전하고 있습니다
 - 👉 [코드 보기](https://github.com/yeongyeong-kim/ERP.git)(GitHub)
 
 
-
 #### 🅳 의료 영상 분석 (Python/OpenCV)
 - 초음파 이미지 처리 및 근육/지방 분석
 - NumPy, OpenCV 활용한 필터링 및 통계 처리
 
 ---
-
 ### 📫 연락처
 - 📧 kyk981213@gmail.com
 - 📝 [Notion 포트폴리오](https://www.notion.so/1ee27d9ee1338057a42bd4eb86f43c63?pvs=4)
