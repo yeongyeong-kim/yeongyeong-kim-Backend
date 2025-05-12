@@ -52,4 +52,4 @@ AIoT, 머신러닝, 웹 개발 등 다양한 영역에 도전하고 있습니다
 
 ### 📫 연락처
 - 📧 kyk981213@gmail.com
-- 📝 [Notion 포트폴리오](https://www.notion.so/1ee27d9ee1338057a42bd4eb86f43c23?pvs=4)
+- 📝 [Notion 포트폴리오](https://www.notion.so/1ee27d9ee1338057a42bd4eb86f43c63?pvs=4)
