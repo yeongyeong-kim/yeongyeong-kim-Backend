@@ -1,28 +1,43 @@
 ## 안녕하세요! 김연경입니다. 👋
 
-신입 백엔드 개발을 준비 중이며 Python과 Java 기반 프로젝트 경험이 있습니다. 
-AIoT, 머신러닝, 웹 개발 등 다양한 영역에 도전하고 있습니다.
+신입 백엔드 개발자를 목표로 다양한 기술 스택을 익히며, Python과 Java 기반의 프로젝트 경험을 쌓아왔습니다.
+AIoT, 머신러닝, 웹 개발 등 다양한 분야에 도전하며 실질적인 문제 해결 역량을 키워가고 있습니다.
 
 
 ### 🧰 사용 기술 (Tech Stack)
+
+<!-- Language -->
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=java&logoColor=white)
+
+<!-- Backend & Frameworks -->
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=spring&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
+![JPA](https://img.shields.io/badge/JPA-9B1D20?style=flat&logo=hibernate&logoColor=white)
+![JSP](https://img.shields.io/badge/JSP-FB7A14?style=flat&logo=java&logoColor=white)
+![Servlet](https://img.shields.io/badge/Servlet-6A4E26?style=flat&logo=java&logoColor=white)
+![REST API](https://img.shields.io/badge/REST%20API-02569B?style=flat&logo=protocols&logoColor=white)
+
+<!-- Frontend -->
 ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![JPA](https://img.shields.io/badge/JPA-9B1D20?style=flat&logo=hibernate&logoColor=white)
+
+<!-- Data / ML -->
+![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat&logo=opencv&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-003B57?style=flat&logo=matplotlib&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
+
+<!-- Tools -->
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=flat&logo=anaconda&logoColor=white)
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=flat&logo=visualstudio&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipse&logoColor=white)
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat&logo=oracle&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-FB7A14?style=flat&logo=java&logoColor=white)
-![Servlet](https://img.shields.io/badge/Servlet-6A4E26?style=flat&logo=java&logoColor=white)
+
+<!-- Cloud -->
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazon-aws&logoColor=white)
+
 
 ### 💼 주요 프로젝트
 
